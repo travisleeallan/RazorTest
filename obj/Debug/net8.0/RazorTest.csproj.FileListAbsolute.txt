@@ -28,3 +28,5 @@
 /Users/travisallan/Projects/RazorTest/obj/Debug/net8.0/RazorTest.pdb
 /Users/travisallan/Projects/RazorTest/obj/Debug/net8.0/RazorTest.genruntimeconfig.cache
 /Users/travisallan/Projects/RazorTest/obj/Debug/net8.0/ref/RazorTest.dll
+/Users/travisallan/Projects/RazorTest/obj/Debug/net8.0/RazorTest.sourcelink.json
+/Users/travisallan/Projects/RazorTest/obj/Debug/net8.0/RazorTest.csproj.AssemblyReference.cache

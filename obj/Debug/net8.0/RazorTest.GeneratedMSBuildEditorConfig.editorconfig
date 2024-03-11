@@ -18,12 +18,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/travisallan/Projects/RazorTest
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/travisallan/Projects/RazorTest/Pages/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ3VzdG9tZXJzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/travisallan/Projects/RazorTest/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/travisallan/Projects/RazorTest/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/travisallan/Projects/RazorTest/Pages/index2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvaW5kZXgyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/travisallan/Projects/RazorTest/Pages/Privacy.cshtml]

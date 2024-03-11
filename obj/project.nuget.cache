@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "kzCre1RAL2Gyqv2IUTkT2ijVt590OhOgtPvBdKhRzX7FroBuruK6lb5Tqq2iWUFulHZvZwQTsjoeLX7Z/d1tSA==",
+  "dgSpecHash": "DJ+lkmj0n7PaaWFWoVYqft/q8l57+GQWWnumuQFo3PfQHho2rSsZ9JKwgZugR4+1CRQ6jrOpSmDWnag3YI0kXw==",
   "success": true,
   "projectFilePath": "/Users/travisallan/Projects/RazorTest/RazorTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/travisallan/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.entityframeworkcore.inmemory/8.0.2/microsoft.entityframeworkcore.inmemory.8.0.2.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/travisallan/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
